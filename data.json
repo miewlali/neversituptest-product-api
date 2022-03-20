@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "1001",
+    "name": "แอปเปิ้ล",
+    "description": "an apple",
+    "price": 100.0,
+    "thumbnail": "/static/images/apple.jpg"
+  },
+  {
+    "_id": "1002",
+    "name": "แตงโม",
+    "description": "a water melon",
+    "price": 35.0,
+    "thumbnail": "/static/images/water_melon.jpg"
+  },
+  {
+    "_id": "1003",
+    "name": "ส้ม",
+    "description": "a orange",
+    "price": 45.0,
+    "thumbnail": "/static/images/orage.jpg"
+  },
+  {
+    "_id": "1004",
+    "name": "สตรอเบอรี่",
+    "description": "a strawberry",
+    "price": 250.0,
+    "thumbnail": "/static/images/strawberry.jpg"
+  },
+  {
+    "_id": "1005",
+    "name": "เลม่อน",
+    "description": "a lemon",
+    "price": 30.0,
+    "thumbnail": "/static/images/lemon.jpg"
+  }
+]

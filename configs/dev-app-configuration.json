@@ -1,0 +1,8 @@
+{
+    "appName": "PRODUCT",
+    "port": 4008,
+    "mongo": {
+        "dbHost": "host:27017,host:27018,host:27019",
+        "dbUri": "/product?replicaSet=rs"
+    }
+}
